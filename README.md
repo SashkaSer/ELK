@@ -4,7 +4,7 @@
 
 Запущенный Elastic
 
-![elastic](ссылка на скриншот 1)`
+![elastic](https://github.com/SashkaSer/ELK/blob/main/img/Задание1.png)`
 
 
 ---
