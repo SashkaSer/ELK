@@ -6,7 +6,6 @@
 
 ![elastic](https://github.com/SashkaSer/ELK/blob/main/img/Задание1.png)`
 
-
 ---
 
 ### Задание 2
