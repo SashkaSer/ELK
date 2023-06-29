@@ -60,4 +60,8 @@
 
 Так же еще поигрался с логами докера
 
+docker run -d --log-driver gelf --log-opt gelf-address=udp://192.168.0.202:15000 --name mysql -e MYSQL_ROOT_PA
+SSWORD=1234 mariadb:latest
+
+
 ![docker](https://github.com/SashkaSer/ELK/blob/main/img/docker.png)`
